@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Friends List</string>
+    <string name="action_settings">Settings</string>
+    <string name="com_vk_sdk_AppId">5182512</string>
+</resources>
