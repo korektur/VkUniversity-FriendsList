@@ -3,4 +3,6 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="friendNameTextColor">#2e3033</color>
+    <color name="friendIsOnlineTextColor">#909499</color>
 </resources>
